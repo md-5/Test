@@ -2,11 +2,4 @@
 *.slo
 *.lo
 *.o
-
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.laiasdfsdf
-*.la
-*.a
+asd
